@@ -4,7 +4,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #222222;
   background-color: #efefef;
-  background-image: radial-gradient(#999999 1px, transparent 0);
+  /* background-image: radial-gradient(#999999 1px, transparent 0); */
   background-size: 20px 20px;
   display: flex;
   height: 100vh;
