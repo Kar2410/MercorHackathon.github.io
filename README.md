@@ -29,6 +29,9 @@ streamlit run app.py
 ## Demo Link
 https://kar2410.github.io/MercorHackathon.github.io/
 
+## Video Link
+https://drive.google.com/file/d/1IgmyAjczCknHr_aEvylIJ9J6G8_cK4HI/view?usp=drive_link
+
 ## Screenshots
 
 ## Homepage
